@@ -52,7 +52,7 @@ def organizar_arquivos(pasta_raiz):
 # Exemplo de uso:
 pasta = "C:/Users/SeuNome/Downloads"  # Substitua pelo caminho da sua pasta
 organizar_arquivos(pasta)
-Use o código com cuidado.
+
 
 Como Usar
 Substituir o caminho da pasta: Altere o valor da variável pasta para o caminho da pasta que você deseja organizar.
